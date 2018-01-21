@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ShoppersStop/OnlineShoppingPortal/Shoppers-Stop/src/main/java"/>
+	<classpathentry kind="src" path="ShoppersStop/OnlineShoppingPortal/shoppersbackend/src/main/java"/>
+	<classpathentry kind="src" path="ShoppersStop/OnlineShoppingPortal/shoppersbackend/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="ShoppersStop/OnlineShoppingPortal/Shoppers-Stop/target/classes"/>
+</classpath>

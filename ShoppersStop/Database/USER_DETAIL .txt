@@ -1,0 +1,4 @@
+"ID","FIRST_NAME","LAST_NAME","ROLE","ENABLED","PASSWORD","EMAIL","CONTACT_NUMBER","RESET_TOKEN"
+"5","Anshul","Gupta","ADMIN","TRUE","$2a$10$ODRzF1DI02vwoEVMMHp3gORn6b8fhc5VmtjqGC1fUPT2OCbegiaES","anshul8083@gmail.com","6692382090",
+"27","Anshul","Gupta","USER","TRUE","$2a$10$39AgaIJf52JyUD6/./SAAO3ojQnfpcpPttwpYbQBVl.3xqgkau3dq","axg36090@ucmo.edu","6602382090",
+"28","Devanjal","Kotia","USER","TRUE","$2a$10$91gCCJA0vU4flY4.1cg77OGx5Bm2Su5fPaQ.WSGDh7LK710X1nRJi","devanjal@gmail.com","6692331052",

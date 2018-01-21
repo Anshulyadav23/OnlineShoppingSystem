@@ -1,0 +1,8 @@
+"ID","ADDRESS_LINE_ONE","ADDRESS_LINE_TWO","IS_BILLING","CITY","COUNTRY","POSTAL_CODE","IS_SHIPPING","STATE","USER_ID"
+"24","410, franklin st","Ave Apt-A","TRUE","Warrensburg","United States","64093","FALSE","MO","22"
+"25","410, franklin st","Ave Apt-A","TRUE","Warrensburg","United States","64093","FALSE","MO","23"
+"26","410, franklin st","Ave Apt-A","TRUE","Warrensburg","United States","64093","FALSE","MO","24"
+"27","410, franklin st","Ave Apt-A","TRUE","Warrensburg","United States","64093","FALSE","MO","25"
+"28","410, franklin st","Ave Apt-A","TRUE","Warrensburg","United States","64093","FALSE","MO","26"
+"29","410, franklin st","Ave Apt-A","TRUE","Warrensburg","United States","64093","FALSE","MO","27"
+"30","410, franklin st","Ave Apt-A","TRUE","Warrensburg","United States","64093","FALSE","MO","28"
